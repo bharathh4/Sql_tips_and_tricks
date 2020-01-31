@@ -1,3 +1,4 @@
+# JOIN
 What is a JOIN:  Start from this view of a JOIN: Creating a megatable from two tables based on attributes. The tables under question can already exist or be created on the fly
 
 ## Classic Join
